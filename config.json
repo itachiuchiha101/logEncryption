@@ -1,0 +1,5 @@
+{
+  "inputLogFile":"something.txt",
+  "outputLogFile" : "something1.txt" ,
+  "filterList" : ["PhoneNumber" , "EmailAddress"]
+}
